@@ -179,16 +179,16 @@ section h2 {
     font-size: 3em;
 }
 
-section.success {
+section.about {
     color: #fff;
     background: #18bc9c;
 }
 
-section.success a,
-section.success a:hover,
-section.success a:focus,
-section.success a:active,
-section.success a.active {
+section.about a,
+section.about a:hover,
+section.about a:focus,
+section.about a:active,
+section.about a.active {
     outline: 0;
     color: #2c3e50;
 }
@@ -262,9 +262,9 @@ section.success a.active {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #18bc9c;
     font-size: 20px;
-    color: #fff;
+    color: #18bc9c;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -274,8 +274,8 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
-    background: #fff;
+    color: #fff;
+    background: #18bc9c;
 }
 
 .floating-label-form-group {
